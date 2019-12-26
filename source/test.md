@@ -9,7 +9,7 @@ excerpt: これは抜粋です。
 
 画像を表示してみる。
 
-![画像](/jj.jpg)
+![画像](jj.jpg)
 
 [link](All Of Me.pdf)
 
