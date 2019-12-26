@@ -9,7 +9,7 @@ excerpt: これは抜粋です。
 
 画像を表示してみる。
 
-![画像](https://gitpress.io/@junoura/jj.jpg)
+![画像](https://gitpress.io/@junoura/test/jj.jpg)
 
-[link](https://gitpress.io/@junoura/All Of Me.pdf)
+[link](https://gitpress.io/@junoura/test/All Of Me.pdf)
 
